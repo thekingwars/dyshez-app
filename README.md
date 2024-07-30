@@ -1,16 +1,9 @@
 # dyshez_app
 
-A new Flutter project.
+Aplicación para la prueba técnica de Dyshez
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Para iniciar este proyecto solo necesita correr la aplicación con su IDE de confianza o usar el comando [flutter run --debug]
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+para obtener acceso a la api de supabase debe configurar el [.env_example], debe eliminar el example y darlo solo como [.env].
