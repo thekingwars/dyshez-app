@@ -15,6 +15,7 @@ class DyshezRoute {
     GetPage(
       name: '/orders',
       page: () => const Orders(),
+      transition: Transition.noTransition,
       binding: OrdersBinding(),
       children: [
         GetPage(
